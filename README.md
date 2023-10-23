@@ -7,6 +7,11 @@ Código de exemplo para uma aula de Algorigtmos e Estrutura de Dados.
 O código chama uma função recursiva de fatorial, que recebe um número inteiro e retorna o fatorial desse número.
 
 
+## Complexidade do algoritmo
+
+O algoritmo tem complexidade O(n), pois a cada chamada recursiva, o número de chamadas diminui em 1.
+
+
 ## Tecnologias
 
 - [Rust](https://www.rust-lang.org/)
